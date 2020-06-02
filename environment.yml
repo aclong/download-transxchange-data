@@ -1,0 +1,10 @@
+name: ftp-simple
+
+channels:
+  - conda-forge
+  - defaults
+  - auto
+
+dependencies:
+  - python=3.8.1
+  - python-decouple
